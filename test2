@@ -1,0 +1,3 @@
+git remote set -url ofigin git@~
+のようにhttpsではなくgitにしてあげることで、
+git pushによるユーザー名とパスワードの要求がなくなる。
